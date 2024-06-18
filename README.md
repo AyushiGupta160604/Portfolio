@@ -58,20 +58,20 @@ To run this project locally, follow these steps:
    - Technologies: HTML, CSS, JS, Node.js, Express.js, MongoDB
    - [Repository](https://github.com/AyushiGupta160604/SolaceSphere)
 
--Blogging-Hub
-   -Description: A simple blogging website
-   -Technologies: React
-   -[Repository](https://github.com/AyushiGupta160604/Blogging-Hub)
+- Blogging-Hub
+   - Description: A simple blogging website
+   - Technologies: React
+   - [Repository](https://github.com/AyushiGupta160604/Blogging-Hub)
 
--ResumeNest
-  -Description: A quick resume generating website
-  -Technologies: HTML, CSS, JS
-  -[Respository](https://github.com/AyushiGupta160604/ResumeNest)
+- ResumeNest
+  - Description: A quick resume generating website
+  - Technologies: HTML, CSS, JS
+  - [Respository](https://github.com/AyushiGupta160604/ResumeNest)
 
--nest-postgres-crud
-   -Description: A nest application to perform CRUD operations on postgres DB
-   -Technologies: nest.js, typescript, PostgreSQL
-   -[Respository](https://github.com/AyushiGupta160604/nest-postgres-crud)
+- nest-postgres-crud
+   - Description: A nest application to perform CRUD operations on postgres DB
+   - Technologies: nest.js, typescript, PostgreSQL
+   - [Respository](https://github.com/AyushiGupta160604/nest-postgres-crud)
 
 ## Technologies Used
 - Frontend: React.js, HTML, CSS, JavaScript

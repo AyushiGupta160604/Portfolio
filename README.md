@@ -53,10 +53,10 @@ To run this project locally, follow these steps:
 
 ## Projects Showcase
 ### Here are some of the featured projects
--SolaceSphere
-   -Description: A mental wellbeing web application
-   -Technologies: HTML, CSS, JS, Node.js, Express.js, MongoDB
-   -[Repository](https://github.com/AyushiGupta160604/SolaceSphere)
+- SolaceSphere
+   - Description: A mental wellbeing web application
+   - Technologies: HTML, CSS, JS, Node.js, Express.js, MongoDB
+   - [Repository](https://github.com/AyushiGupta160604/SolaceSphere)
 
 -Blogging-Hub
    -Description: A simple blogging website

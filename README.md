@@ -37,38 +37,41 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/AyushiGupta160604/Portfolio.git
 2. **Navigate to project directory**
+   ```bash
    cd portfolio
 3. **Install Dependencies**
+   ```bash
    npm install
 4. **Start the development server**
+   ```bash
    npm start
 
-### The application will be available at http://localhost:3000.
+### The application will be available at `http://localhost:3000`.
 
 ## Usage
 - Once the project is set up, you can start customizing it by adding your own projects.
 
 ## Projects Showcase
 ### Here are some of the featured projects
-- SolaceSphere
- - Description: A mental wellbeing web application
- - Technologies: HTML, CSS, JS, Node.js, Express.js, MongoDB
- - [Repository](https://github.com/AyushiGupta160604/SolaceSphere)
+-SolaceSphere
+   -Description: A mental wellbeing web application
+   -Technologies: HTML, CSS, JS, Node.js, Express.js, MongoDB
+   -[Repository](https://github.com/AyushiGupta160604/SolaceSphere)
 
-- Blogging-Hub
- - Description: A simple blogging website
- - Technologies: React
- - [Repository](https://github.com/AyushiGupta160604/Blogging-Hub)
+-Blogging-Hub
+   -Description: A simple blogging website
+   -Technologies: React
+   -[Repository](https://github.com/AyushiGupta160604/Blogging-Hub)
 
-- ResumeNest
-  - Description: A quick resume generating website
-  - Technologies: HTML, CSS, JS
+-ResumeNest
+  -Description: A quick resume generating website
+  -Technologies: HTML, CSS, JS
   -[Respository](https://github.com/AyushiGupta160604/ResumeNest)
 
-- nest-postgres-crud
-  - Description: A nest application to perform CRUD operations on postgres DB
-  - Technologies: nest.js, typescript, PostgreSQL
-  -[Respository](https://github.com/AyushiGupta160604/nest-postgres-crud)
+-nest-postgres-crud
+   -Description: A nest application to perform CRUD operations on postgres DB
+   -Technologies: nest.js, typescript, PostgreSQL
+   -[Respository](https://github.com/AyushiGupta160604/nest-postgres-crud)
 
 ## Technologies Used
 - Frontend: React.js, HTML, CSS, JavaScript

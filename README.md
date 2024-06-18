@@ -1,4 +1,4 @@
-# 🎬 Netfilix Portfolio
+# 🎬 Netflix Themed Portfolio
 
 Welcome to **My-Portfolio**, themed like Netflix!
 

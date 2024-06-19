@@ -8,6 +8,7 @@ Welcome to **My-Portfolio**, themed like Netflix!
 - [Introduction](#introduction)
 - [Features](#features)
 - [Live Demo](#live-demo)
+- [Screenshots](#Screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Projects Showcase](#projects-showcase)
@@ -28,6 +29,8 @@ Netfilix based Portfolio is designed to display my projects in a visually appeal
 ## Live Demo
 
 Check out the live demo of the Netfilix Portfolio [here](your_live_demo_link).
+
+## Screenshots
 
 ## Installation
 

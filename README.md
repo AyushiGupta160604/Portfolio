@@ -11,7 +11,6 @@ Welcome to **My-Portfolio**, themed like Netflix!
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Screenshots](#Screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Projects Showcase](#projects-showcase)
@@ -28,8 +27,6 @@ Netfilix based Portfolio is designed to display my projects in a visually appeal
 - **Responsive Design**: Fully responsive and mobile-friendly.
 - **Interactive UI**: Smooth animations and interactive elements.
 - **Detailed Project Cards**: Each project card provides key information and links.
-
-## Screenshots
 
 ## Installation
 

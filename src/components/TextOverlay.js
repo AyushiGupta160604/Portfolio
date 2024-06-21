@@ -9,7 +9,7 @@ const TextOverlay = () => {
   const [hidden, setHidden] = useState(false);
 
   const openResume = () => {
-    window.open("https://drive.google.com/file/d/1HfYRKSMSJ5vUPkoMndTFVNwulbrB7-2W/view?usp=sharing");
+    window.open("your_resume_link");
   }
 
   const toggleHidden = () => {

@@ -2,12 +2,15 @@
 
 Welcome to **My-Portfolio**, themed like Netflix!
 
+- ## live at:
+  ```bash
+  https://ayushigupta-portfolio.netlify.app/
 
-## 📖 Table of Contents
+
+📖 Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Live Demo](#live-demo)
 - [Screenshots](#Screenshots)
 - [Installation](#installation)
 - [Usage](#usage)

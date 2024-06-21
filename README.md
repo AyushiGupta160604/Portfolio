@@ -77,6 +77,7 @@ To run this project locally, follow these steps:
 
 ## Technologies Used
 - Frontend: React.js, HTML, CSS, JavaScript
+- Email/ backend purpose: Email.js
 
 ## Contact
 ### If you have any questions or suggestions, feel free to contact me:

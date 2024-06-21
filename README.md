@@ -29,10 +29,6 @@ Netfilix based Portfolio is designed to display my projects in a visually appeal
 - **Interactive UI**: Smooth animations and interactive elements.
 - **Detailed Project Cards**: Each project card provides key information and links.
 
-## Live Demo
-
-Check out the live demo of the Netfilix Portfolio [here](your_live_demo_link).
-
 ## Screenshots
 
 ## Installation
